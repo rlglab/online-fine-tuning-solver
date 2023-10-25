@@ -1,0 +1,11 @@
+# execute and library file
+build/
+__pycache__
+
+# configuration file
+*.cfg
+
+# others
+.vscode
+*.pt
+*.sgf

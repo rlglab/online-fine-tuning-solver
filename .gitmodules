@@ -1,0 +1,6 @@
+[submodule "minizero"]
+	path = minizero
+	url = git@github.com:rlglab/minizero.git
+[submodule "chat"]
+	path = chat
+	url = git@github.com:moporgic/chat.git
